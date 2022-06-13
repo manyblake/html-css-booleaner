@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-#wrapper {
+.wrapper {
     margin: auto;
     width: 80%;
 }
@@ -24,7 +24,6 @@ main {
 
 #header__title {
     height: 70px;
-    margin-left: 10%;
 }
 
 #main__header {
