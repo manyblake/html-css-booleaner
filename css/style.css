@@ -78,14 +78,30 @@ footer {
     margin-top: 25px;
 }
 
-footer p {
+footer h4 {
     color: grey;
 }
 
 #footer__img1 {
     background-image: url("/img/monitor.jpg");
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px 0;
 }
 
 #footer__img2 {
     background-image: url("/img/graph.jpg");
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 30px;
+}
+
+.footer__text--highligth {
+    color: white;
+    padding: 15px 0 0 20px;
+    font-weight: 800;
 }
