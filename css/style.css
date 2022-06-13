@@ -65,6 +65,10 @@ main thead {
     text-align: left;
 }
 
+.table--colomn-width {
+    width: 25%;
+}
+
 main th {
     margin-left: 10px;
     padding-right: 200px;
