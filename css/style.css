@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+#wrapper {
+    margin: auto;
+    width: 80%;
+}
+
 header {
     background-image: url("../img/pattern.png");
     background-color: #4282cb;
@@ -19,6 +24,7 @@ main {
 
 #header__title {
     height: 70px;
+    margin-left: 10%;
 }
 
 #main__header {
