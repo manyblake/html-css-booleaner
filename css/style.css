@@ -90,7 +90,7 @@ footer h4 {
 }
 
 #footer__img1 {
-    background-image: url("/img/monitor.jpg");
+    background-image: url("../img/monitor.jpg");
     height: 200px;
     width: 300px;
     background-repeat: no-repeat;
@@ -99,7 +99,7 @@ footer h4 {
 }
 
 #footer__img2 {
-    background-image: url("/img/graph.jpg");
+    background-image: url("../img/graph.jpg");
     height: 200px;
     width: 300px;
     background-repeat: no-repeat;
